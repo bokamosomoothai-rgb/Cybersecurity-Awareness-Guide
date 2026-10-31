@@ -1,0 +1,487 @@
+CYBERSECURITY AWARENESS GUIDEUnderstanding, Identifying and Preventing Cyber Threats
+
+Project Category:Cybersecurity Awareness Notes and Guide  
+Project Type:Educational Cybersecurity Resource  
+Format:Markdown Documentation
+
+ Table of Contents
+
+1. Introduction
+2. Project Objectives
+3. Understanding Cybersecurity
+4. Common Cybersecurity Threats
+5. Understanding Phishing Attacks
+6. Practical Phishing Examples
+7. Cybersecurity Case Studies
+8. Cybersecurity Do's and Don'ts
+9. Password and Account Security
+10. Safe Internet Browsing Practices
+11. Responding to Cybersecurity Incidents
+12. Cybersecurity Awareness Checklist
+13. Conclusion
+14. References
+
+1. Introduction
+
+Cybersecurity awareness refers to understanding digital threats and knowing how to protect personal information, devices, networks and online accounts from cyberattacks.
+As individuals and organisations increasingly depend on digital technologies, cybercriminals continue to use different techniques to steal information, disrupt services and gain unauthorised access to computer systems.
+Phishing, malware, social engineering and password attacks are examples of threats that can compromise digital security.
+Cyber threats such as phishing, malware and unauthorised account access can expose sensitive information and disrupt normal activities. Individuals can reduce these risks by developing good security habits, recognising suspicious online activities and protecting their personal information (Cybersecurity and Infrastructure Security Agency, 2021; Merritt, 2022).
+
+2. Project Objectives
+
+The main objectives of this project are to:
+
+- Educate individuals about common cybersecurity threats.
+- Explain how phishing attacks operate.
+- Identify warning signs of suspicious online activities.
+- Promote strong password and account security.
+- Encourage responsible internet browsing.
+- Explain practical cybersecurity prevention methods.
+- Increase awareness of appropriate incident response procedures.
+- Promote responsible digital behaviour.
+
+3. Understanding Cybersecurity
+
+Cybersecurity involves protecting computers, networks, applications and information from unauthorised access, attacks, damage or disruption.
+
+It focuses on three important principles:
+
+3.1 Confidentiality
+
+Confidentiality ensures that sensitive information is accessible only to authorised individuals.
+
+Example: Protecting personal information and passwords from unauthorised users.
+
+3.2 Integrity
+
+Integrity ensures that information remains accurate, complete and protected from unauthorised modification.
+
+Example: Preventing cybercriminals from changing financial records without permission.
+3.3 Availability
+
+Availability ensures that systems, services and information remain accessible to authorised users when required.
+Example: Maintaining reliable access to organisational systems and online services.
+
+These three principles are commonly known as the CIA Triad and form an important foundation of information security.
+
+4. Common Cybersecurity Threats
+
+4.1 Phishing Attacks
+
+Phishing is a cyberattack in which criminals impersonate trusted organisations or individuals to trick victims into revealing sensitive information or interacting with malicious content.
+Attackers may impersonate banks, companies or trusted individuals to make their messages appear legitimate (Merritt, 2022)
+    
+4.2 Malware
+
+Malware refers to malicious software designed to damage devices, steal information or gain unauthorised access to computer systems.
+
+Common types include:
+
+- Viruses: Malicious programs that attach themselves to other files or programs.
+- Worms: Malware capable of spreading between systems.
+- Trojans: Malicious programs disguised as legitimate software.
+- Ransomware: Malware that encrypts or restricts access to information and demands payment.
+- Spyware: Software designed to secretly monitor activities and collect information.
+
+Malicious software may be delivered through suspicious downloads, compromised websites and phishing attachments.(Cybersecurity and Infrastructure Security Agency, 2021).
+
+4.3 Social Engineering
+
+Social engineering involves manipulating individuals into revealing confidential information or performing actions that compromise security.
+Attackers may impersonate technical support staff, managers, banks or other trusted individuals.
+For example, a criminal may pretend to be an IT employee and request a worker's login credentials.
+
+4.4 Password Attacks
+
+Password attacks involve attempts to obtain, guess or exploit passwords to gain unauthorised access to accounts and systems.
+Common examples include:
+
+- Brute-force attacks.
+- Dictionary attacks.
+- Password spraying.
+- Credential stuffing.
+
+Using weak or reused passwords increases the risk of account compromise. (Cybersecurity and Infrastructure Security Agency, 2021).
+
+4.5 Identity Theft
+
+Identity theft occurs when someone obtains and uses another person's personal information without permission, often for fraudulent purposes.
+Examples include using stolen personal information to access accounts or conduct financial transactions.
+Protecting personal information and limiting what is shared online can reduce opportunities for criminals to misuse it (Cybersecurity and Infrastructure Security Agency, 2021).
+
+5. Understanding Phishing Attacks in Detail
+
+Phishing is one of the most common forms of social engineering. It relies on deception and manipulation to encourage victims to perform actions that compromise their security.
+
+5.1 How Phishing Works
+
+A typical phishing attack follows these stages:
+
+1. The attacker creates a fraudulent message.
+2. The message is sent to potential victims.
+3. The victim receives a message that appears trustworthy.
+4. The victim is encouraged to click a link, open an attachment or provide information.
+5. The attacker attempts to steal information or compromise the victim's device or account.
+
+Phishing messages may imitate banks, online services, government organisations or employers  (Merritt, 2022).
+
+5.2 Types of Phishing
+
+Email Phishing: Fraudulent emails sent to trick recipients into revealing sensitive information.
+
+Spear Phishing: Targeted phishing attacks designed for a particular individual or organisation.
+
+Smishing: Phishing conducted through SMS or text messages.
+
+Vishing: Phishing conducted through voice calls.
+
+Whaling: Targeted attacks aimed at senior executives or other high-profile individuals.
+
+Clone Phishing: An attacker copies a previously legitimate message and replaces its original link or attachment with malicious content.
+
+These techniques use impersonation and deception to influence victims into taking unsafe actions  (Merritt, 2022).
+
+5.3 Warning Signs of Phishing
+
+Some common warning signs include:
+
+- Unexpected messages requesting personal information.
+- Suspicious links and attachments.
+- Messages creating a sense of urgency.
+- Unusual sender email addresses.
+- Requests for passwords or verification codes.
+- Unexpected financial requests.
+- Website addresses that imitate legitimate organisations.
+- Offers that appear too good to be true.
+
+However, spelling mistakes are not always present in phishing messages. Some fraudulent communications are professionally written.
+
+Users should verify unexpected requests through official contact channels rather than trusting the information provided in the suspicious message (NIST, n.d.; Federal Bureau of Investigation, n.d.).
+
+6. Practical Phishing Examples
+
+The following examples are fictional and created for educational purposes.
+
+Example 1: Fake Banking Email
+
+Subject: URGENT! Your Bank Account Has Been Suspended.
+
+Message:
+
+Dear Customer,
+
+Your bank account has been temporarily suspended due to unusual activity.
+
+Please verify your account details immediately to restore access.
+
+Failure to respond may result in permanent account restrictions.
+
+Thank you,  
+Bank Security Department
+
+Warning Signs:
+
+- Creates unnecessary urgency.
+- Uses a generic greeting.
+- Requests sensitive account information.
+- May contain an unverified link.
+
+Recommended Action:
+
+Do not click the link or provide personal information. Contact the bank through its official website or verified telephone number.  (Merritt, 2022).
+
+Example 2: Fake Prize Notification
+
+Subject: Congratulations! You Have Won a Prize!
+
+Message:
+
+Congratulations!
+
+You have been selected as the winner of a special promotional prize.
+
+Click the link below and provide your personal information to claim your reward. 
+
+Warning Signs:
+
+- Unexpected prize notification.
+- Requests personal information.
+- May request payment before releasing the prize.
+- Uses excitement to influence decision-making.
+
+Recommended Action:
+
+Ignore the message and verify any promotion through the organisation's official communication channels.
+
+Example 3: Fake Account Verification SMS
+
+Message:
+
+Your account requires immediate verification. Failure to verify may result in account suspension. Follow the provided link to continue.
+
+Warning Signs:
+
+- Unexpected verification request.
+- Threat of account suspension.
+- Suspicious link.
+- Attempts to pressure the recipient.
+
+Recommended Action:
+
+Avoid the link and access the account directly through its official application or website.
+
+The examples demonstrate common phishing techniques, including impersonation, urgency and requests for sensitive information (NIST, n.d.; Federal Bureau of Investigation, n.d.).
+
+7. Cybersecurity Case Studies
+
+The following are hypothetical scenarios developed for educational purposes. They are not presented as documented real-world incidents.
+
+Case Study 1: Employee Falls Victim to Phishing
+
+Scenario:
+
+An employee receives an email appearing to come from their organisation's IT department. The email requests that the employee update their login credentials through a supplied link.
+
+The employee follows the link and enters their username and password into a fraudulent website.
+
+Security Risks:
+
+- Unauthorised account access.
+- Exposure of confidential information.
+- Potential compromise of organisational systems.
+
+Recommended Prevention:
+
+- Verify unexpected account requests.
+- Avoid suspicious links.
+- Enable Multi-Factor Authentication.
+- Provide regular cybersecurity awareness training. (Merritt, 2022).
+
+Case Study 2: Weak Password Compromise
+
+Scenario:
+
+A student uses the same password for multiple online accounts. One website experiences a data breach, exposing the student's login credentials.
+
+An attacker attempts to use the stolen credentials on other platforms.
+
+Security Risks:
+
+- Unauthorised account access.
+- Loss of personal information.
+- Identity theft.
+
+Recommended Prevention:
+
+- Use unique passwords for different accounts.
+- Use a reputable password manager.
+- Enable Multi-Factor Authentication.
+- Change compromised passwords immediately. (Cybersecurity and Infrastructure Security Agency, 2021).
+
+Case Study 3: Malware Through an Unknown Download
+
+Scenario:
+
+A user downloads an application from an untrusted website. The downloaded file contains malicious software that compromises the user's device.
+
+Security Risks:
+
+- Data theft.
+- Device disruption.
+- Unauthorised access.
+- Potential loss of important files.
+
+Recommended Prevention:
+
+- Download software from trusted sources.
+- Keep security software updated.
+- Avoid opening unexpected attachments.
+- Regularly back up important information. (Cybersecurity and Infrastructure Security Agency, 2021).
+
+8. Cybersecurity Do's and Don'ts
+
+Do's"
+Individuals should follow these recommended security practices:
+
+1. Use strong and unique passwords: Create long, difficult-to-guess passwords for different accounts.
+
+2. Enable Multi-Factor Authentication: Add another layer of security to important online accounts.
+
+3. Verify suspicious messages: Confirm unexpected requests through official communication channels.
+
+4. Update software regularly: Install security updates for operating systems, applications and browsers.
+
+5. Download from trusted sources: Obtain applications and files from legitimate websites and official application stores.
+
+6. Back up important information: Maintain secure backups to reduce the risk of permanent data loss.
+
+7. Report suspicious activities: Inform the relevant IT department or security team about potential cyber threats.
+
+8. Use reputable security software: Maintain appropriate security protection on personal devices.
+
+9. Protect personal information: Share sensitive information only when necessary and with trusted services.
+
+10. Review account security settings: Regularly check login activity, permissions and recovery options.
+
+These practices are consistent with the online safety recommendations provided by CISA and the FBI (Cybersecurity and Infrastructure Security Agency, 2021).
+
+Don'ts
+Individuals should avoid the following unsafe behaviours:
+
+1. Do not reuse passwords: Avoid using the same password across multiple accounts.
+
+2. Do not share verification codes: Never disclose passwords, PINs or authentication codes to unverified individuals.
+
+3. Do not click unknown links: Avoid interacting with suspicious links received through emails, messages or social media.
+
+4. Do not ignore security updates: Delaying updates may leave devices exposed to known vulnerabilities.
+
+5. Do not install unknown applications: Avoid downloading software from untrusted websites.
+
+6. Do not open suspicious attachments: Unexpected attachments may contain malicious software.
+
+7. Do not ignore security warnings: Investigate unusual login notifications and suspicious account activity.
+
+8. Do not share confidential information unnecessarily: Avoid exposing personal or organisational information online.
+
+9. Do not trust every online offer: Be cautious of unexpected prizes, promotions and financial opportunities.
+
+10. Do not leave accounts unsecured: Always protect accounts when using shared or public devices.
+
+9. Password and Account Security
+
+Passwords are an important part of protecting online accounts.
+
+Good password security practices include:
+
+1. Use long, unique passwords or passphrases.
+2. Avoid predictable passwords.
+3. Never share passwords with others.
+4. Use a reputable password manager.
+5. Enable Multi-Factor Authentication.
+6. Use passkeys where supported.
+7. Change compromised passwords immediately.(Cybersecurity and Infrastructure Security Agency, 2021; Merritt, 2022).
+
+9.1 What Is Multi-Factor Authentication?
+
+Multi-Factor Authentication (MFA) is a security method that requires users to provide more than one form of verification before accessing an account.
+
+Examples include:
+
+Something you know: A password or PIN.
+Something you have: A security key or authenticator device.
+Something you are: A fingerprint or facial recognition.
+
+MFA adds another layer of protection if a password is stolen. (Cybersecurity and Infrastructure Security Agency, 2021).
+
+9.2 Benefits of Strong Password Practices
+
+Strong password practices help to:
+
+- Reduce the risk of unauthorised account access.
+- Protect confidential information.
+- Reduce the impact of stolen credentials.
+- Improve personal and organisational security.
+
+10. Safe Internet Browsing Practices
+
+To improve online safety, individuals should:
+
+- Visit trusted websites.
+- Check website addresses before entering personal information.
+- Avoid downloading unknown files.
+- Keep browsers and applications updated.
+- Avoid sharing unnecessary personal information online.
+- Be cautious when using public Wi-Fi.
+- Log out of accounts when using shared devices.
+- Review application permissions.
+- Avoid suspicious advertisements and pop-ups.
+- Verify unexpected requests through official communication channels.
+
+Users should also avoid clicking unexpected links or opening suspicious attachments (Cybersecurity and Infrastructure Security Agency, 2021).
+
+11. Responding to Cybersecurity Incidents
+
+A cybersecurity incident is an event that threatens the confidentiality, integrity or availability of information or computer systems.
+
+If an individual suspects that they have experienced a cyberattack, the following steps should be considered:
+
+1. Stop interacting with suspicious messages or websites.
+2. Do not provide additional personal information.
+3. Report the incident to the relevant IT or security team.
+4. Change compromised passwords using a trusted device.
+5. Enable or reset Multi-Factor Authentication.
+6. Contact the bank if financial information was exposed.
+7. Scan affected devices using reputable security software.
+8. Monitor accounts for suspicious activity.
+9. Preserve relevant evidence, such as suspicious emails and messages.
+10. Follow the organisation's incident response procedures.
+
+Having an organised response process can help reduce the impact of security incidents and improve recovery (Nelson et al., 2025).
+
+Important: Organisations should follow their established incident response policies and applicable legal and regulatory requirements.
+
+12. Cybersecurity Self-Assessment Checklist
+
+This self-assessment checklist helps individuals evaluate their cybersecurity awareness and identify areas where they need to improve. Readers should answer each question honestly by selecting Yes or No.
+
+Self-Assessment Questions
+
+1. Do you use strong and unique passwords for your online accounts?
+2. Do you enable Multi-Factor Authentication (MFA) where available?
+3. Do you check the sender before opening unexpected emails?
+4. Can you identify suspicious links and phishing messages?
+5. Do you regularly update your devices, applications and browsers?
+6. Do you download files and applications only from trusted sources?
+7. Do you avoid sharing sensitive personal information on suspicious websites?
+8. Do you use secure internet connections when accessing important accounts?
+9. Do you back up important files and documents?
+10. Do you report suspicious online activities or security incidents?
+
+Evaluating Your Results
+
+Count the number of questions you answered Yes
+
+Yes Answers | Assessment 
+
+8–10 = Good cybersecurity awareness 
+5–7 = Moderate cybersecurity awareness
+0–4 = Cybersecurity awareness needs improvement
+
+Recommendations for Improvement
+
+Individuals who identify weaknesses in their cybersecurity practices should:
+
+- Create stronger passwords and enable MFA.
+- Learn how to recognise phishing attempts.
+- Keep devices and software updated.
+- Avoid suspicious websites, links and downloads.
+- Develop a habit of protecting and backing up important information.
+
+This checklist is intended for educational purposes and provides a simple way for individuals to reflect on their online safety habits. It is not a formal cybersecurity audit.
+
+13. Conclusion
+
+Cybersecurity awareness plays an important role in protecting individuals and organisations against digital threats.
+
+Understanding common attacks, identifying suspicious activities and applying appropriate security practices can significantly reduce exposure to cybercrime.
+
+Individuals should remain cautious, informed and responsible when using digital technologies.
+
+By practising good password security, recognising phishing attempts, keeping software updated and reporting suspicious activities, users can contribute to a safer digital environment.
+
+Cybersecurity is a shared responsibility that requires continuous learning, awareness and improvement.
+
+14. References
+
+Cybersecurity and Infrastructure Security Agency (2021) Cybersecurity Awareness Month 2021: Phishing tip sheet. Cybersecurity and Infrastructure Security Agency.
+
+Merritt, M. (2022) ‘Cybersecurity Awareness Month 2022: Recognizing and reporting phishing’, Cybersecurity Insights. National Institute of Standards and Technology, 24 October.
+
+Nelson, A., Rekhi, S., Scarfone, K. and Souppaya, M. (2025) Incident response recommendations and considerations for cybersecurity risk management: A CSF 2.0 community profile. NIST Special Publication 800-61, Revision 3. Gaithersburg, MD: National Institute of Standards and Technology.
+
+Project Title:Cybersecurity Awareness Guide  
+Project Category:Cybersecurity Awareness Notes and Guide  
+Project Format:Markdown Documentation  
+Project Purpose:To promote cybersecurity awareness, responsible online behaviour and the prevention of common cyber threats.
