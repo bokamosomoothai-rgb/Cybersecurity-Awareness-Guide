@@ -1,0 +1,76 @@
+Cybersecurity Awareness Guide
+
+1. About the Project
+
+The Cybersecurity Awareness Guide is an educational project designed to help people understand cybersecurity threats and learn how to protect themselves online.
+
+The guide covers common threats such as phishing, malware, social engineering, password attacks and identity theft. It also explains safe online practices and what to do when a cybersecurity incident occurs.
+
+2. Project Objectives
+
+The main objectives of this project are to:
+
+Explain the meaning and importance of cybersecurity.
+Identify common cybersecurity threats.
+Help users recognise phishing emails and suspicious messages.
+Explain the importance of strong passwords and multi-factor authentication.
+Promote safe internet browsing habits.
+Provide cybersecurity Do’s and Don’ts.
+Explain basic steps to take after a cybersecurity incident.
+Improve general cybersecurity awareness.
+
+3. Project Contents
+
+This repository contains the following topics:
+
+Introduction to cybersecurity.
+Common cybersecurity threats
+Understanding phishing attacks.
+Examples of phishing attacks.
+Cybersecurity case studies.
+Cybersecurity Do’s and Don’ts.
+Password and account security.
+Safe browsing practices.
+Incident response.
+Cybersecurity self-assessment checklist.
+
+4. Repository Structure
+
+The project contains two main files:
+
+README.md – Provides an overview of the project, its objectives and contents.
+cybersecurity-awareness.md – Contains the full cybersecurity awareness guide.
+
+5. Importance of the Project
+
+Cybersecurity awareness helps people recognise online threats and make safer decisions when using digital devices and services. Understanding phishing warning signs, protecting passwords and reporting suspicious activity can help reduce the risk of cyberattacks (Cybersecurity and Infrastructure Security Agency, 2021; Merritt, 2022).
+
+6. Intended Audience
+
+This guide is intended for:
+
+Students
+Employees.
+Computer and internet users.
+Beginners learning about cybersecurity.
+Anyone interested in improving their online safety.
+
+7. How to Use This Project
+
+Open the cybersecurity-awareness.md file.
+Read through the different cybersecurity topics.
+Review the examples and case studies.
+Follow the recommended safety practice
+Complete the self-assessment checklist to test your understanding.
+
+8. Disclaimer
+
+This project is intended for educational and awareness purposes only. The examples and case studies are fictional and are included to help readers understand common cybersecurity situations.
+
+9. References
+
+Cybersecurity and Infrastructure Security Agency (2021) Cybersecurity Awareness Month 2021: Phishing Tip Sheet. Cybersecurity and Infrastructure Security Agency.
+
+Merritt, M. (2022) ‘Cybersecurity Awareness Month 2022: Recognizing and Reporting Phishing’, Cybersecurity Insights, 24 October.
+
+Nelson, A., Rekhi, S., Souppaya, M. and Scarfone, K. (2025) Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile. NIST Special Publication 800-61, Revision 3. Gaithersburg, MD: National Institute of Standards and Technology.
